@@ -17,7 +17,7 @@ In this exercise, you will **monitor** the automated provisioning tasks, verify 
 
    ![BTP Sign In](../images/monitoring_handson_3.png)
 
-4. In the BTP Cockpit, navigate to **Account Explorer**. Search for your user number and you will see the newly created subaccount listed under **Subaccounts**.
+4. In the BTP Cockpit, navigate to **Account Explorer**. Search for your newly created subaccount listed under **Subaccounts** as **JouleAgentXX** (Replace XX with your User ID).
 
    ![BTP Global Account](../images/monitoring_handson_4.png)
 
@@ -83,11 +83,5 @@ You have successfully provisioned the selected SAP Build services on SAP BTP and
 > Want to know more about the data and the agent queries? See [About the Sample Maintenance Backend](../info/README_2.md) for the data model and sample prompts.
 
 ---
-
-## Feedback
-
-Hope you enjoyed the session! We would love to hear your feedback.
-
-![Feedback QR](../images/feedback.png)
 
 **Continue to - [Home Page](../README.md)**

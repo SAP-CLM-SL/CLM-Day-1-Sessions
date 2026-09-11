@@ -26,8 +26,6 @@ In this hands-on session, Cloud Integration Automation Service provisions the fo
 - SAP Business Application Studio
 - SAP Joule
 
-![cias_overview](images/overview2.png)
-
 ## Required Systems & Services
 
 - [x] __Cloud Integration Automation Service__: BTP Service used to set up the technical configuration of the integration scenario involving the below systems.
@@ -41,7 +39,7 @@ In this hands-on session, Cloud Integration Automation Service provisions the fo
 
 Once you complete the above exercises, you will have provisioned and configured services on BTP using Cloud Integration Automation Service and created a custom Joule agent in Joule Studio.
 
-> **About CIAS:** New to Cloud Integration Automation Service? Read [About CIAS and Its Components](info/README_1.md) for an overview of the service, its capabilities, and the key components you will use in this hands-on.
+> **About the Service:** New to Cloud Integration Automation Service? Read [About Cloud Integration Automation Service and Its Components](info/README_1.md) for an overview of the service, its capabilities, and the key components you will use in this hands-on.
 
 > **Further Reading:** Curious about the data behind the agent? See [About the Sample Maintenance Backend](info/README_2.md) for the data model, entity descriptions, and sample prompts to try.
 
